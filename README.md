@@ -7,7 +7,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 Öncelikle projeyi clonelayın.
 ```
-git clone https://github.com/Recepurkun/odev2.git
+git clone https://github.com/Recepurkun/GooglePage.git
 ```
 
 # **Usage**
